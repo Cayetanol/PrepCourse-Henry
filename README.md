@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio del curso henry
+Este es un proyecto de una prueba para crear un repo y clonarlo
